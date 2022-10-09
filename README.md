@@ -1,3 +1,4 @@
 # ADM-HW1
-### 1) In the HW1 file you will find the solutions to the HackerRank exercises, divided by problem and section.
-### 2) The Submissions file is a pdf file with the proof of all the succesful exercises submitted.
+### In the Homework1 folder you will find:
+### 1) HW1 file which is the notebook with all the solutions to the HackerRank exercises, divided by problem and section.
+### 2) Submissions file is a pdf file with the proof of all the succesful exercises submitted.
